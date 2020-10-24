@@ -4,5 +4,5 @@ def sample (*test)
     puts "The parameters are #{test[i]}"
   end
 end
-sample "Zara", "6", "F"
+sample "Zara", "6", "F","Mac", "36", "M", "MCA"
 sample "Mac", "36", "M", "MCA"
