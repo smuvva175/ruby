@@ -31,9 +31,11 @@ list.add_item("serum")
 list.add_item("mud pack")
 list.add_item("tea tree oil")
 list.add_item("toner")
+list.add_item("toner")
+
+
 
 list.print_items
 
 # direct access
 Grocery.printitems_only
-
